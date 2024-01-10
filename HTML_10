@@ -1,0 +1,60 @@
+# Startup Data
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Startup Data</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Startup Data</h1>
+
+    <table>
+        <tr>
+            <th>Startup Name</th>
+            <th>Description</th>
+            <th>Business Model</th>
+            <th>Type</th>
+            <th>Growth (in last 1 year)</th>
+            <th>Employees</th>
+            <th>Launch Date</th>
+            <th>Valuation</th>
+            <th>Last Funding</th>
+            <th>Location</th>
+            <th>Last Round Funding</th>
+            <th>No of Job Openings</th>
+            <th>Revenue</th>
+        </tr>
+        <| Startup Name   | Description   | Business Model | Type         | Growth (in last 1 year) | Employees        | Launch Date | Valuation | Last Funding | Location                     | Last Round Funding      | No of Job Openings | Revenue   |
+| -------------- | ------------- | --------------- | ------------ | ------------------------ | ---------------- | ----------- | --------- | ------------ | ---------------------------- | ------------------------ | ------------------- | --------- |
+| Stability AI   | Building open AI tools that will let reach potential by designing and implementing solutions using collective intelligence and augmented technology | B2B, B2C | Media, Enterprise Software, Content Production, machine learning, deep learning, artificial intelligence, deep tech, subscription, saas | 73% | 51-200 employees | Nov 2019 | $1.0b | $151m | London, United Kingdom | $50.0m CONVERTIBLE | - | $44.2m |
+| Synthesia      | A powerful tool to generate professional-looking AI videos from text in minutes | B2B | Media, Content Production, deep tech, machine learning, artificial intelligence, subscription, saas | 110% | 201-500 employees | Apr 2017 | $1.0b | $153m | London, United Kingdom | $90.0m SERIES C | 21 | $49.8m |
+| Descript       | Building a platform for creative tools, making audio and video creation as fast, accessible, and collaborative as Google Docs | B2C | Media, artificial intelligence, deep tech, subscription, saas | 28% | 51-200 employees | 2017 | $550m | $100m | San Francisco, United States | $50.0m SERIES C | 7 | $32.8m |
+| Poolside AI    | ChatGPT-like tool that can write software code | B2B, B2C | Enterprise software, subscription, saas | - | - | Jul 2023 | $400—600m | $126m | Paris, France | $100m SEED | - | - |
+| PlaygroundAI   | Playground combines AI research and product design to invent new kinds of creative tools | B2B, B2C | Media, Content Production, natural language processing, machine learning, 3d technology, artificial intelligence, subscription, saas | - | 11-50 employees | Nov 2022 | $163—245m | $40.8m | San Francisco, United States | $40.8m EARLY VC | 1 | $1.1m |
+| RunwayML       | Magical AI tools, realtime collaboration, precision editing, and more | B2B | Media, Content Production, machine learning, artificial intelligence, subscription, saas | 159% | 51-200 employees | 2018 | $1.5b | $237m | New York City, United States | $141m SERIES C | 4 | $15.9m |
+| Kive           | Offering a better way for creators and teams to manage their creative assets and collaborate on ideas, boards, and presentations | B2B, B2C | Media, Enterprise Software, Content Production, mobile app, artificial intelligence, subscription, saas | 20% | 11-50 employees | 2018 | $28—42m | $8.7m | Stockholms kommun, Sweden | $7.0m SEED | - | $1.4m |
+| DiffusionBee   | DiffusionBee is the easiest way to generate AI art on your computer with Stable Diffusion | B2B, B2C | Media, Content Production, machine learning, artificial intelligence, saas | - | - | - | - | Pittsburgh, United States | - | - | - |
+| Surreal        | Building a next-level AI content generation engine, re-inventing visual storytelling with AI generation | B2B | Media, Content Production, deep tech, artificial intelligence, commission, saas, manufacturing | 8% | 11-50 employees | 2020 | $10—15m | $2.5m | San Francisco, United States | $2.5m SEED | - | $500k |
+| Didimo         | The world’s leading provider of fast, automated solutions for the generation of high-quality real-time digital human avatars | B2B | Media, Content Production, augmented reality, virtual reality, artificial intelligence, subscription, saas | 28% | 11-50 employees | 2016 | $32—48m | $16.7m | Matosinhos, Portugal | €7.3m SERIES A | - | $3.4m |
+>
+    </table>
+
+</body>
+</html>
